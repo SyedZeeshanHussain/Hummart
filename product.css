@@ -1,0 +1,69 @@
+.priceRow {
+    height: 280px;
+}
+
+.price {
+    color: #57a514;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.discount {
+    color: #ffffff;
+    background-color: #57a514;
+    padding: 5px;
+    margin-left: 20px;
+}
+
+.btn2 {
+    color: #ffffff;
+    margin-top: 10px;
+    width: 310px;
+}
+
+.btn2:hover{
+    color: #ffffff;
+}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab button {
+    background-color: inherit;
+    color: gray;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+
+  
+  /* Create an active/current tablink class */
+  .tab button.active {
+    border-bottom: 3px solid #e96125;
+    color: black;
+  }
+  
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 50px 12px;
+  }
+
+  .highlights {
+      line-height: 2em;
+  }
+
+ #Review h6 {
+     color: #487cc0;
+ }

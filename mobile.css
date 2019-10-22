@@ -1,0 +1,13 @@
+.card-text {
+    font-size: 14px;
+}
+
+.rowMargin {
+    margin-bottom: 10px;
+}
+
+.card-img-top:hover {
+    transition: 0.3s;
+    transform: translate(0px, -10px);
+    cursor: pointer;
+}

@@ -1,0 +1,115 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.delivery_heading {
+    background-color: black;
+    border-bottom: 4px solid #7bae23;
+    margin-bottom: 0;
+}
+.customer_care {
+    background-color: #ececec;
+    font-size: 90%;
+}
+#searchbar {
+    border:none;
+    width: 50%;
+    margin-left: 20px;
+    outline: none;
+}
+.btn {
+    background-color: #e96125;
+    border: none;
+    border-radius: 0;
+    width: 80px;
+}
+
+.navbar-nav {
+    font-size: 12px;
+    background-color: #7bae23;
+    padding: 5px;
+    margin: 10px auto auto auto;
+    
+}
+li {
+    margin-right: 30px;
+}
+.nav-item{
+    text-align: left;
+    margin-right: 22px;
+}
+
+.product1{
+    margin-bottom: 15px;
+}
+
+.middletext {
+    vertical-align: middle;
+}
+
+.descp {
+    font-size: 14px;
+}
+
+.img2{
+    margin: 20px 10px auto auto;
+}
+
+.img3{
+    margin: 30px 10px auto auto;
+}
+.delivery_detail{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.catagorydesc {
+    padding-top: 40px;
+    color: black;
+    opacity: 0.7;
+}
+
+.productdesc {
+    font-size: 14px;
+}
+
+.sitedetails {
+    margin-top: 50px;
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: #272723;
+    height: 30%;
+}
+
+.footer ul li {
+    list-style-image: url('./images/list\ bullet.png');
+    list-style-position: inside;
+    font-size: 14px;
+    line-height: 2em;
+    color: rgb(168, 167, 167);
+}
+
+.allRights {
+    font-size: 14px;
+    color: rgb(168, 167, 167);
+}
+
+.contactinfo {
+    font-size: 14px;
+    color: rgb(168, 167, 167);
+}
+.whiteColor {
+    color: #ffffff;
+}
+
+.hrline {
+    border-color: rgb(168, 167, 167);
+}
+
+.mobileList {
+    line-height: 4em;
+}
